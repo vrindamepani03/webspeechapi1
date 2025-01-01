@@ -1,0 +1,18 @@
+{
+  "name": "agents-sdk-demo-main",
+  "version": "1.0.0",
+  "description": "**D-ID Agents SDK Demo - Vite & Vanilla JavaScript**",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite --port 3000",
+    "build": "vite build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@d-id/client-sdk": "^1.0.19-beta.132",
+    "vite": "^6.0.6"
+  }
+}
